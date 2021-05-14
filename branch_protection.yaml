@@ -1,5 +1,5 @@
 optConfig:
   optOutStrategy: true
-action: notify
+action: issue
 dismissStale: false
 approvalCount: 2
