@@ -2,4 +2,4 @@ optConfig:
   optOutStrategy: true
 action: issue
 #dismissStale: false
-approvalCount: 2
+approvalCount: 3
