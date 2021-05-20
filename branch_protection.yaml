@@ -1,6 +1,6 @@
 optConfig:
-  #optOutStrategy: true
-#action: log
+  optOutStrategy: true
+action: issue
 #enforceDefault: true
 #enforceBranches:
 #requireApproval: true
