@@ -1,5 +1,9 @@
 optConfig:
-  optOutStrategy: true
-action: issue
+  #optOutStrategy: true
+#action: log
+#enforceDefault: true
+#enforceBranches:
+#requireApproval: true
+#approvalCount: 1
 #dismissStale: false
-approvalCount: 3
+#blockForce: true
