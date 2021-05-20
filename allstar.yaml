@@ -1,3 +1,3 @@
 optConfig:
-#  optOutStrategy: false
+  optOutStrategy: true
 #  disableRepoOverride: false
