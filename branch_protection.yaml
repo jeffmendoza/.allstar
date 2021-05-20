@@ -4,6 +4,6 @@ action: issue
 #enforceDefault: true
 #enforceBranches:
 #requireApproval: true
-#approvalCount: 1
+approvalCount: 3
 #dismissStale: false
 #blockForce: true
