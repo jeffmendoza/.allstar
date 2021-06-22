@@ -1,3 +1,7 @@
 optConfig:
   optOutStrategy: false
   disableRepoOverride: true
+  optInRepos:
+  - test-settings
+  - test-settings2
+  - empty-repo
