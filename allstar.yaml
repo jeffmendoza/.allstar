@@ -3,5 +3,5 @@ optConfig:
   disableRepoOverride: true
   optInRepos:
   - test-settings
-  - test-settings2
-  - empty-repo
+  - test-settings-two
+  - emptyrepo
