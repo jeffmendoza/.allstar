@@ -1,5 +1,4 @@
 optConfig:
-  optOutStrategy: false
   disableRepoOverride: true
   optInRepos:
   - test-settings
